@@ -1,3 +1,4 @@
+Create table
 USE [customers]
 GO
 /****** Object:  UserDefinedFunction [dbo].[fNTotalCategories]    Script Date: 5/15/2025 12:22:00 PM ******/
